@@ -8,7 +8,7 @@
 # Site settings
 title: Vote John Minnes
 description: Vote for John Minnes for MBAA
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://github.com/JohnACM/JohnForMBAAPrez.github.io.git" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
