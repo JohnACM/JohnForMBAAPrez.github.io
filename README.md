@@ -1,1 +1,0 @@
-# JohnForMBAAPrez.github.io
